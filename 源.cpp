@@ -67,6 +67,7 @@ void addcontactor(addressbook *abs)
         system("cls");//清屏
 }
 //展示记录
+
 void showcontactor(addressbook abs) 
 {
     if (abs._size == 0)
