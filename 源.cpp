@@ -217,6 +217,8 @@ void kiatou()
         cout << " ";
 }
 //菜单
+system("pause");
+   system("cls");
 void showmenu()
 {
     for (int i = 0; i < 28; i++)
