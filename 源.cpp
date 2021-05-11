@@ -45,7 +45,8 @@ void addcontactor(addressbook *abs)
                 break;
             }
             cout << "输出有误" << endl;
-         }
+         }system("pause");
+   system("cls");
         int age;
         cout << "请输入年龄" << endl;
         cin >> age;
