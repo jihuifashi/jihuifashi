@@ -132,7 +132,8 @@ void deletename(addressbook *abs)
     }
     }
 
-
+system("pause");
+   system("cls");
 void changecontactor(addressbook* abs)
 {
     string name; int p;
